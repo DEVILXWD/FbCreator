@@ -1,7 +1,7 @@
 print(f"""
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━┓           
-❖ › Github :- @jatintiwari0 
-❖ › By      :- JATIN TIWARI
+❖ › Github :- @aloneboydevil580
+❖ › By      :- DEVIL BOY
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━┛                """)
 print('\x1b[38;5;208m⇼'*60)
 print('\x1b[38;5;22m•'*60)
